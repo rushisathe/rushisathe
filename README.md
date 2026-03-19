@@ -4,6 +4,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 ## 💻 Technologies I'm Proficient In:
 ### Programming Languages:
 - **C++**
+- **Python**
+- **Machine Learning**
+- **Docker**
+- **FastAPI**
 - **C**
 - **Python**
 - **Bash Shell Scripting**
